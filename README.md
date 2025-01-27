@@ -11,8 +11,15 @@ This repository demonstrates the use of decision tree for classification using I
 ## overview
 This porject showcases the implementation of DT algorithm
 
-## sert up and installation 
+## Prerequisites
 
 - Python 3.9
 - Basic understanding of ML topics
 - Using colab exeprience
+
+## setup and installation 
+1.clone the repo 
+git clone 
+2. need to install required libraried using reuirements.txt
+
+
